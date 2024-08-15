@@ -32,8 +32,9 @@ Getting Started
 
 2. Install the required dependencies:
    pip install -r requirements.txt
-
-3. Run the Jupyter Notebook to train the model:
+3. Dataset which given in the below link:
+   https://kaggle datasets download -d hijest/genre-classification-dataset-imdb
+4. Run the Jupyter Notebook to train the model:
    jupyter notebook genreclassification.ipynb
 
 Contributing
