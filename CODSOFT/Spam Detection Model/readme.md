@@ -12,7 +12,10 @@ This repository contains a Jupyter Notebook that implements a spam detection sys
 - **Data Visualization:** Plotting data distributions and model performance metrics.
 
 ## Accuracy
-- This version includes the 92.19% accuracy achieved by the Logistic Regression model.
+- This version includes 92.19% the accuracy achieved by the Support Vector Machine model.
+- This version includes  81.6% the accuracy achieved by the Logistic Regression model.
+- This version includes  81.15% the accuracy achieved by the Naive Bayes.
+
 
 
 ## Installation
