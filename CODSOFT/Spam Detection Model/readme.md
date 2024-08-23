@@ -11,6 +11,10 @@ This repository contains a Jupyter Notebook that implements a spam detection sys
 - **Model Evaluation:** Performance comparison using metrics such as accuracy, precision, recall, and F1 score.
 - **Data Visualization:** Plotting data distributions and model performance metrics.
 
+## Accuracy
+- This version includes the 92.19% accuracy achieved by the Logistic Regression model.
+
+
 ## Installation
 
 To get started with this project, follow these steps:
