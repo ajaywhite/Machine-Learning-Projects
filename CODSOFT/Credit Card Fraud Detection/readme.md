@@ -69,5 +69,5 @@ If you'd like to contribute to this project, feel free to fork the repository an
 
 ## Contact
 
-For any questions or suggestions, feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/your-profile) or check out my [GitHub profile](https://github.com/ajaywhite).
+For any questions or suggestions, feel free to reach out to me via [LinkedIn](www.linkedin.com/in/ajaya09) or check out my [GitHub profile](https://github.com/ajaywhite).
 
