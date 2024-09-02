@@ -53,10 +53,6 @@ The dataset used in this project contains transactions made by credit cards in S
 
 The Logistic Regression model achieved:
 - **Accuracy:** 92.19%
-- **Precision:** [Value]
-- **Recall:** [Value]
-- **F1-Score:** [Value]
-
 ## Usage
 
 This project can be used as a reference for building and evaluating machine learning models for fraud detection. The techniques used for data preprocessing and model evaluation can be applied to other similar problems.
