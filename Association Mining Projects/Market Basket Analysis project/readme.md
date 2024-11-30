@@ -72,18 +72,18 @@ The dataset used contains transactional records with information such as:
 ## **Dependencies** ##
 The following Python libraries are required for this project:
 
--pandas: Data manipulation and analysis
--mlxtend: Association rule mining (apriori algorithm and rule generation)
--matplotlib: Visualization of results
--seaborn: Enhanced data visualization
--numpy: Numerical computations
+- pandas: Data manipulation and analysis
+- mlxtend: Association rule mining (apriori algorithm and rule generation)
+- matplotlib: Visualization of results
+- seaborn: Enhanced data visualization
+- numpy: Numerical computations
 
 ## **License** ##
-This project is licensed under the MIT License. See the LICENSE file for more details.
+- This project is licensed under the MIT License. See the LICENSE file for more details.
 
 
 ## **Contact** ##
 For any questions or feedback, feel free to reach out:
 
-GitHub: ajaywhite
-Email: ajay09official@gmail.com
+- GitHub: ajaywhite
+- Email: ajay09official@gmail.com
